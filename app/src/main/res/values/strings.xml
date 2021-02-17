@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">logIn</string>
+    <string name="Enter">Вход</string>
+
+
+    <string name="forgotpassword">Забыли пароль?</string>
+    <string name="passwordEnter">Введите пароль</string>
+    <string name="entertxt">Вход</string>
+    <string name="clicktxt">Нажми сюда</string>
+    <string name="logInbtn">Войти</string>
+    <string name="email">Введите вашу почту</string>
+    <string name="signtxt">Выполните вход или зарегистрируйтесь.</string>
+    <string name="welcometxt">Добро пожаловать</string>
+
+</resources>
